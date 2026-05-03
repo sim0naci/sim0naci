@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Gabriel Simonaci 👋
 
-<!--
-**sim0naci/sim0naci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Engineer** and Computer Engineering student focused on building scalable pipelines, data modeling, and optimizing backend infrastructures. 
 
-Here are some ideas to get you started:
+### 👨‍💻 Who I am
+I am currently pursuing my degree in Computer Engineering at CEFET/RJ. My work is driven by translating complex business requirements into robust, automated data structures. I enjoy tackling problems with a scientific approach, using software engineering to ensure data integrity, availability, and performance throughout its entire lifecycle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently working on
+* Developing the back-end and relational database architecture for a **Real Estate System**, utilizing Python and SQLAlchemy for object-relational mapping.
+* Deepening my expertise in advanced Data Engineering ecosystems, including ETL processes, dimensional modeling, and PL/SQL.
+
+### 🛠️ What tools do I use
+* **Languages:** Python (Pandas, NumPy), SQL, C/C++
+* **Databases:** MySQL, Oracle, Microsoft SQL Server, PostgreSQL
+* **Data Engineering & Architecture:** SQLAlchemy (ORM), ETL pipelines, Data Modeling (OLTP/OLAP)
+* **Infrastructure & DevOps:** Linux (Terminal), Git, GitHub, Virtual Environments (venv)
+
+### 📫 How to reach me
+* **LinkedIn:** [gabriel-simonaci-volpini](https://www.linkedin.com/in/gabriel-simonaci-volpini)
+* **Email:** gabrielsvolpini@gmail.com
